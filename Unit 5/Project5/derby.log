@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 15 13:51:41 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-18ed-dfc7-0000009e9630 
+on database directory C:\Users\hawke\IdeaProjects\Project5\FruitDB with class loader sun.misc.Launcher$AppClassLoader@b4aac2 
+Loaded from file:/C:/Program%20Files/JetBrains/IntelliJ%20IDEA%202018.2.4/plugins/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\hawke\IdeaProjects\Project5
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
